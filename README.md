@@ -1,4 +1,4 @@
-# heycoun_ai
+# ai_heycoun_llm
 
 1. job_sct_for_teenagers
 접근 불가 시, colab 링크:
